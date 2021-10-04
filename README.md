@@ -1,11 +1,10 @@
-# covid_19
+# Exercise App
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+An exercise based app UI which can help people do exercised at home during lockdowns etc.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
